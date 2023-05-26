@@ -11,6 +11,12 @@
 <p align="center">
   Владея мудростью Данных и владычеством над Питоном, я продолжу двигаться вперед, несмотря на преграды и препятствия. Мой путь в IT начался, и ныне он развернулся в великую эпопею, где я воплощаю свои цели.
 </p>
+<p align="center">
+  Мои специализации включают:
+</p>
+<p align="center">
+  <strong>Data Analytics,</strong> <strong>Data Science,</strong> <strong>Python Programming,</strong> и <strong>SQL.</strong>
+</p>
 <!--
 **pavel1111pavel/pavel1111pavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
