@@ -9,7 +9,7 @@
 
 
 
-Вот мои [сертификаты](https://github.com/pavel1111pavel/pavel1111pavel/tree/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B), они скромные, но постоянно пополняются, ведь I'am dreamer и я постоянно повышаю уровень компетенций.
+Вот мои [сертификаты](https://github.com/pavel1111pavel/pavel1111pavel/tree/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B), они скромные, но постоянно пополняются, ведь I'am dreamer.
 
 Вот мои учебные проекты
 
