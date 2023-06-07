@@ -2,21 +2,7 @@
 <p align="center">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </p>
-<p align="center">
-   Невзирая на труды и невзгоды, я, покоряющий путь в сфере информационных технологий, намереваюсь продолжать трудиться неутомимо, не покладая головы на плаху лени. Овладев специализацией в области Данных и познакомившись с Питоном, мои шаги на этом пути уже превратились в уверенный бег.
-</p>
-<p align="center">
-  Так пусть же время не ослабит мой порыв. Будь я жив, и труд мой не знает конца, ибо предстоящие трудности лишь подстрекают меня к новым свершениям.
-</p>
-<p align="center">
-  Владея мудростью Данных и владычеством над Питоном, я продолжу двигаться вперед, несмотря на преграды и препятствия. Мой путь начался, и ныне он развернулся в великую эпопею, где я воплощаю свои цели.
-</p>
-<p align="center">
-  Мои специализации включают:
-</p>
-<p align="center">
-  <strong>Data Analytics,</strong> <strong>Data Science,</strong> <strong>Python Programming,</strong> и <strong>SQL.</strong>
-</p>
+
 <!--
 **pavel1111pavel/pavel1111pavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
