@@ -16,7 +16,6 @@
 Вот мои [учебные проекты](https://github.com/pavel1111pavel/Yandex_DS)
 
 
-<p>По всем вопросам <a href="seminarist@yandex.ru">пишите письма</a></p>
 
 Спасибо за внимание!
 <!--
