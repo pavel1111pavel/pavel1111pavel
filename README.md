@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </p>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 <!--
 **pavel1111pavel/pavel1111pavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
